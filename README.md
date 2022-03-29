@@ -1,5 +1,5 @@
 ## Hi, I'm Franco 💻👋
-<span style="background-color:blue">some *blue* text</span>
+<span style="color:red">some *red* text</span>.
 # Franco Angulo
 ## Full Stack Web Developer
 
