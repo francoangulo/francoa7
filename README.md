@@ -1,5 +1,5 @@
 ## Hi, I'm Franco 💻👋
-![bg](#39ffaf)some *red* text
+[![bg](#39ffaf)some *red* text]
 # Franco Angulo
 ## Full Stack Web Developer
 
