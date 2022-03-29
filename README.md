@@ -1,5 +1,5 @@
 
-## Hi, I'm Franco 💻👋
+## Hi!👋 Welcome to my profile, I'm Franco 💻
 
 <img src="github-banner.jpg" alt="programmer cartoon" />
 
