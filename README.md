@@ -1,18 +1,20 @@
-## Hi, I'm Franco 💻👋
-[![bg](#39ffaf)some *red* text]
-# Franco Angulo
-## Full Stack Web Developer
+
+### Hi, I'm Franco 💻👋
+
+<img src="github-banner.jpg" alt="programmer cartoon" />
 
 I've always loved programming, especially web-oriented programming, and I've always been researching and learning on my own. That is why I decided to start my career as Full Stack Dev at SoyHenry, to gather and consolidate my knowledge and thus be able to work on what I like the most.
 I am extremely responsible and committed to my tasks, always with a good predisposition and constantly learning. I am also a student of Information Systems Engineering, where I have acquired a very powerful logical reasoning.
+
+- 🔭 I’m currently working on a NFT marketplace, as a group final project 
+- 🌱 I’m currently learning solidity and hardhat
 
 <!--
 **francoa7/francoa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
