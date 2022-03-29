@@ -1,5 +1,5 @@
 ## Hi, I'm Franco 💻👋
-<span style="color:red">some *red* text</span>.
+![bg](#39ffaf)some *red* text
 # Franco Angulo
 ## Full Stack Web Developer
 
