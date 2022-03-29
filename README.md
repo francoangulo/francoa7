@@ -9,6 +9,13 @@ I am extremely responsible and committed to my tasks, always with a good predisp
 - 🔭 I’m currently working on a NFT marketplace, as a group final project 
 - 🌱 I’m currently learning solidity and hardhat
 
+## Projects
+
+- **Weather App**: Weather application project in wich I learned to make requests to an API endpoint
+- **Pokemon App**: Individual Project where I learned to work with front and back together, combining API requests, a database and a user interface.
+
+Check them in my repos!😁
+
 
 ## Technologies
 
