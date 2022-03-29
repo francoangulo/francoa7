@@ -1,4 +1,4 @@
-### Hi, I'm Franco 💻👋
+## Hi, I'm Franco 💻👋
 
 # Franco Angulo
 ## Full Stack Web Developer
