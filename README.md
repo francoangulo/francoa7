@@ -1,5 +1,5 @@
 
-### Hi, I'm Franco 💻👋
+## Hi, I'm Franco 💻👋
 
 <img src="github-banner.jpg" alt="programmer cartoon" />
 
@@ -8,6 +8,20 @@ I am extremely responsible and committed to my tasks, always with a good predisp
 
 - 🔭 I’m currently working on a NFT marketplace, as a group final project 
 - 🌱 I’m currently learning solidity and hardhat
+
+
+## Technologies
+
+- ♦ JavaScript - HTML - CSS
+- ♦ React - Redux - Thunk
+- ♦ NodeJS - ExpressJS
+- ♦ Sequelize - PostgreSQL - SQL
+
+## Contact me
+
+✉ francoangulo2001@gmail.com
+
+👔 https://www.linkedin.com/in/franco-angulo/
 
 <!--
 **francoa7/francoa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
