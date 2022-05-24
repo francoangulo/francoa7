@@ -19,10 +19,10 @@ Check them in my repos!😁
 
 ## Technologies
 
-- ♦ JavaScript - HTML - CSS
+- ♦ TypeScript - JavaScript - HTML - CSS
 - ♦ React - Redux - Thunk
 - ♦ NodeJS - ExpressJS
-- ♦ Sequelize - PostgreSQL - SQL
+- ♦ Sequelize - Prisma - PostgreSQL - SQL
 
 ## Contact me
 
